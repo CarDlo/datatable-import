@@ -1,0 +1,13 @@
+import './bootstrap';
+import jQuery from "jquery";
+import jszip from 'jszip';
+import pdfmake from 'pdfmake';
+import DataTable from 'datatables.net-dt';
+import 'datatables.net-autofill-dt';
+import 'datatables.net-buttons-dt';
+import 'datatables.net-buttons/js/buttons.colVis.mjs';
+import 'datatables.net-buttons/js/buttons.html5.mjs';
+import 'datatables.net-buttons/js/buttons.print.mjs';
+import 'datatables.net-colreorder-dt';
+import DateTime from 'datatables.net-datetime';
+import 'datatables.net-searchbuilder-dt';
